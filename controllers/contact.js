@@ -20,40 +20,39 @@ import Contact from '../models/contactModel.js';
 //           email: 'soliman.01150349695@gmail.com',
 //           web: 'https://www.example.com',
 //         },
-// image: "https://civ6worldcup.com/wp-content/uploads/2021/01/CONTACT-US-banner-400x400-1.jpg",
-// "contactIcons": {
-//     "title": "Contact us through one of the channels",
-//     "icons": [
-//       {
-//         "title": "Youtube",
-//         "icon": "https://w7.pngwing.com/pngs/1009/93/png-transparent-youtube-computer-icons-logo-youtube-angle-social-media-share-icon.png",
-//         "url": "https://www.youtube.com"
+//         image:
+//           'https://civ6worldcup.com/wp-content/uploads/2021/01/CONTACT-US-banner-400x400-1.jpg',
+//         contactIcons: {
+//           title: 'Contact us through one of the channels',
+//           icons: [
+//             {
+//               title: 'Youtube',
+//               icon: 'https://w7.pngwing.com/pngs/1009/93/png-transparent-youtube-computer-icons-logo-youtube-angle-social-media-share-icon.png',
+//               url: 'https://www.youtube.com',
+//             },
+//             {
+//               title: 'Facebook',
+//               icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968764.png',
+//               url: 'https://www.facebook.com',
+//             },
+//             {
+//               title: 'Twitter',
+//               icon: 'https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png',
+//               url: 'https://www.twitter.com',
+//             },
+//             {
+//               title: 'Instagram',
+//               icon: 'https://png.pngtree.com/png-clipart/20200226/original/pngtree-instagram-icon-collection-png-image_5320951.jpg',
+//               url: 'https://www.instagram.com',
+//             },
+//             {
+//               title: 'Tiktok',
+//               icon: 'https://w7.pngwing.com/pngs/814/840/png-transparent-tiktok-tiktok-logo-tiktok-icon-thumbnail.png',
+//               url: 'https://www.tiktok.com',
+//             },
+//           ],
+//         },
 //       },
-//       {
-//         "title": "Facebook",
-//         "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968764.png",
-//         "url": "https://www.facebook.com"
-//       },
-//       {
-//         "title": "Twitter",
-//         "icon": "https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png",
-//         "url": "https://www.twitter.com"
-//       },
-//       {
-//         "title": "Instagram",
-//         "icon": "https://png.pngtree.com/png-clipart/20200226/original/pngtree-instagram-icon-collection-png-image_5320951.jpg",
-//         "url": "https://www.instagram.com"
-//       },
-//       {
-//         "title": "Tiktok",
-//         "icon": "https://w7.pngwing.com/pngs/814/840/png-transparent-tiktok-tiktok-logo-tiktok-icon-thumbnail.png",
-//         "url": "https://www.tiktok.com"
-//       }
-//     ]
-//   }
-//       },
-
-
 //     });
 
 //     res.json(data);
