@@ -65,7 +65,7 @@ import Services2 from '../models/servicesModel2.js';
 
 export const postServices = async (_, res) => {
     try {
-      const servicesData = await Services.findOne();
+      const servicesData = await Services2.findOne();
       if (Object.keys(servicesData).length > 0) {
         return res.status(200).json(servicesData);
       } else {
