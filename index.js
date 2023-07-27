@@ -11,6 +11,7 @@ import contactRouter from './routes/contact.js';
 import cors from 'cors';
 import dotenv from "dotenv"
 
+dotenv.config();
 const port  = process.env.PORT
 const db_url = process.env.DB_URL
 
